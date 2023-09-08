@@ -154,13 +154,14 @@ function ThreadCard({
             {community && ` - ${community.name} Community`}
           </p>
 
-          <Image
-            src={community.image}
-            alt={community.name}
-            width={14}
-            height={14}
-            className="ml-1 rounded-full object-cover"
-          />
+          <div className="relative w-4 h-4">
+            <Image
+              src={community.image}
+              alt={community.name}
+              fill
+              className="ml-1 rounded-full object-cover"
+            />
+          </div>
         </Link>
       )}
     </article>
