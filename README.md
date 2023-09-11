@@ -1,6 +1,6 @@
 # Threads Clone with Next.js, React, Clerk, UploadThing, Tailwind CSS, TypeScript, MongoDB
 
-![homepage_screenshot](https://github.com/kt946/threads-clone-mern-nextjs-yt-jsm/assets/103476893/0a167279-fe7a-4667-8920-b79cc28cab1b, 'Homepage Screenshot')
+![homepage_screenshot](https://github.com/kt946/threads-clone-mern-nextjs-yt-jsm/assets/103476893/24f5c057-aab6-434c-ae69-673ebd35695b, 'Homepage Screenshot')
 
 ## Description
 
@@ -69,7 +69,7 @@ This project includes the following features:
 
 ## Screenshots
 
-![profile_screenshot](https://github.com/kt946/threads-clone-mern-nextjs-yt-jsm/assets/103476893/71b999a3-aca0-45ad-adef-5556cbb6f1f4, 'Profile Screenshot')
+![profile_screenshot](https://github.com/kt946/threads-clone-mern-nextjs-yt-jsm/assets/103476893/ba23b943-9f03-4b15-89b9-7ba5835405c1, 'Profile Screenshot')
 
 ![edit_profile_form_screenshot](https://github.com/kt946/threads-clone-mern-nextjs-yt-jsm/assets/103476893/b4eceda8-9070-4c31-ab94-6822c356f9f0, 'Edit Profile Screenshot')
 
