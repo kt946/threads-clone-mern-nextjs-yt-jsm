@@ -1,10 +1,12 @@
 # Threads Clone with Next.js, React, Clerk, UploadThing, Tailwind CSS, TypeScript, MongoDB
 
+![homepage_screenshot](https://github.com/kt946/threads-clone-mern-nextjs-yt-jsm/assets/103476893/0a167279-fe7a-4667-8920-b79cc28cab1b, 'Homepage Screenshot')
+
 ## Description
 
 This project is a clone of the Threads platform. It was built using a YouTube tutorial by [JavaScript Mastery](https://www.youtube.com/watch?v=O5cmLDVTgAs).
 
-Welcome to the Full Stack Threads Clone! Developed with Next.js, React, Clerk, UploadThing, Tailwind CSS, TypeScript, and MongoDB, this project offers a social networking experience where users can sign in with their email, create posts, reply to others' posts, explore user profiles, join communities, and perform various social interactions. The application also provides features like editing and deleting posts, a search page for discovering users and communities, and the ability to customize user profiles by editing profile images, usernames, and bios.
+Welcome to the Full Stack Threads Clone! Developed with Next.js, React, Clerk, UploadThing, Tailwind CSS, TypeScript, and MongoDB, this project offers a social networking experience where users can sign in with their email, create posts, reply to others' posts, explore user profiles, join communities, and perform various social interactions. The application also provides features like deleting posts, a search page for discovering users and communities, and the ability to customize user profiles by editing profile images, usernames, and bios.
 
 ⭐ Note: The database may become inactive if the app is not used for a while. If this happens, please contact me and I will reactivate the database.
 
@@ -61,11 +63,23 @@ This project includes the following features:
 - Reply functionality for engaging with posts
 - User profile exploration
 - Community joining and participation
-- Edit and delete posts
+- Delete posts
 - Search for users and communities
 - User profile customization (profile image, username, bio)
 
 ## Screenshots
+
+![profile_screenshot](https://github.com/kt946/threads-clone-mern-nextjs-yt-jsm/assets/103476893/71b999a3-aca0-45ad-adef-5556cbb6f1f4, 'Profile Screenshot')
+
+![edit_profile_form_screenshot](https://github.com/kt946/threads-clone-mern-nextjs-yt-jsm/assets/103476893/b4eceda8-9070-4c31-ab94-6822c356f9f0, 'Edit Profile Screenshot')
+
+![create_thread_form_screenshot](https://github.com/kt946/threads-clone-mern-nextjs-yt-jsm/assets/103476893/e30f8ee3-776e-4244-aa52-6aed01169b6e, 'Create Thread Form Screenshot')
+
+![thread_screenshot](https://github.com/kt946/threads-clone-mern-nextjs-yt-jsm/assets/103476893/d238b219-f8d2-43ff-b876-132ee1540481, 'Thread Screenshot')
+
+![searchpage_screenshot](https://github.com/kt946/threads-clone-mern-nextjs-yt-jsm/assets/103476893/53abf3bc-2101-49f0-8601-90e69b2aac25, 'Searchpage Screenshot')
+
+![communities_screenshot](https://github.com/kt946/threads-clone-mern-nextjs-yt-jsm/assets/103476893/6d639b6e-6c4f-45f7-948a-061fe2c75466, 'Communities Screenshot')
 
 ## Technologies Used
 
